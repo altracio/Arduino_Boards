@@ -1,16 +1,16 @@
 {
   "packages": [
     {
-      "name": "SparkFun",
-      "maintainer": "SparkFun Electronics",
-      "websiteURL": "https://SparkFun.com",
-      "email": "TechSupport@SparkFun.com",
+      "name": "Altrac",
+      "maintainer": "Altrac Electronics",
+      "websiteURL": "https://Altrac.com",
+      "email": "TechSupport@Altrac.com",
       "help": {
         "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
       },
       "platforms": [
         {
-          "name": "SparkFun Apollo3 Boards",
+          "name": "Altrac Apollo3 Boards",
           "architecture": "apollo3",
           "version": "1.0.2",
           "category": "Contributed",
@@ -22,18 +22,18 @@
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
           "boards": [
-            { "name": "SparkFun Artemis Module" },
-            { "name": "SparkFun BlackBoard Artemis" },
-            { "name": "SparkFun BlackBoard Artemis ATP" },
-            { "name": "SparkFun BlackBoard Artemis Nano" },
-            { "name": "SparkFun Edge" }
+            { "name": "Altrac Artemis Module" },
+            { "name": "Altrac BlackBoard Artemis" },
+            { "name": "Altrac BlackBoard Artemis ATP" },
+            { "name": "Altrac BlackBoard Artemis Nano" },
+            { "name": "Altrac Edge" }
           ],
           "toolsDependencies": [
-            { "packager": "SparkFun", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
+            { "packager": "Altrac", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
           ]
         },
         {
-          "name": "SparkFun Apollo3 Boards",
+          "name": "Altrac Apollo3 Boards",
           "architecture": "apollo3",
           "version": "1.0.1",
           "category": "Contributed",
@@ -45,18 +45,18 @@
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
           "boards": [
-            { "name": "SparkFun Artemis Module" },
-            { "name": "SparkFun BlackBoard Artemis" },
-            { "name": "SparkFun BlackBoard Artemis ATP" },
-            { "name": "SparkFun BlackBoard Artemis Nano" },
-            { "name": "SparkFun Edge" }
+            { "name": "Altrac Artemis Module" },
+            { "name": "Altrac BlackBoard Artemis" },
+            { "name": "Altrac BlackBoard Artemis ATP" },
+            { "name": "Altrac BlackBoard Artemis Nano" },
+            { "name": "Altrac Edge" }
           ],
           "toolsDependencies": [
-            { "packager": "SparkFun", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
+            { "packager": "Altrac", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
           ]
         },
         {
-          "name": "SparkFun Apollo3 Boards",
+          "name": "Altrac Apollo3 Boards",
           "architecture": "apollo3",
           "version": "1.0.0",
           "category": "Contributed",
@@ -68,18 +68,18 @@
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
           "boards": [
-            { "name": "SparkFun Artemis Module" },
-            { "name": "SparkFun BlackBoard Artemis" },
-            { "name": "SparkFun BlackBoard Artemis ATP" },
-            { "name": "SparkFun BlackBoard Artemis Nano" },
-            { "name": "SparkFun Edge" }
+            { "name": "Altrac Artemis Module" },
+            { "name": "Altrac BlackBoard Artemis" },
+            { "name": "Altrac BlackBoard Artemis ATP" },
+            { "name": "Altrac BlackBoard Artemis Nano" },
+            { "name": "Altrac Edge" }
           ],
           "toolsDependencies": [
-            { "packager": "SparkFun", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
+            { "packager": "Altrac", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
           ]
         },
         {
-          "name": "SparkFun Apollo3 Boards",
+          "name": "Altrac Apollo3 Boards",
           "architecture": "apollo3",
           "version": "0.0.0",
           "category": "Contributed",
@@ -91,18 +91,18 @@
             "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
           "boards": [
-            { "name": "SparkFun Artemis Module" },
-            { "name": "SparkFun BlackBoard Artemis" },
-            { "name": "SparkFun BlackBoard Artemis Mega" },
-            { "name": "SparkFun BlackBoard Artemis Nano" },
-            { "name": "SparkFun Edge" }
+            { "name": "Altrac Artemis Module" },
+            { "name": "Altrac BlackBoard Artemis" },
+            { "name": "Altrac BlackBoard Artemis Mega" },
+            { "name": "Altrac BlackBoard Artemis Nano" },
+            { "name": "Altrac Edge" }
           ],
           "toolsDependencies": [
-            { "packager": "SparkFun", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
+            { "packager": "Altrac", "name": "arm-none-eabi-gcc", "version": "8-2018-q4-major" } 
           ]
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
@@ -148,7 +148,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.6",
           "category": "Contributed",
@@ -194,7 +194,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.7",
           "category": "Contributed",
@@ -243,7 +243,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.8",
           "category": "Contributed",
@@ -292,7 +292,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.9",
           "category": "Contributed",
@@ -341,7 +341,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.10",
           "category": "Contributed",
@@ -390,7 +390,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.11",
           "category": "Contributed",
@@ -442,7 +442,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "Altrac AVR Boards",
           "architecture": "avr",
           "version": "1.1.12",
           "category": "Contributed",
@@ -494,7 +494,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
@@ -507,16 +507,16 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
           "version": "1.1.0",
           "category": "Contributed",
@@ -529,16 +529,16 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
           "version": "1.2.0",
           "category": "Contributed",
@@ -551,16 +551,16 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.6)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.6)",
           "architecture": "samd",
           "version": "1.2.1",
           "category": "Contributed",
@@ -573,16 +573,16 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
           "architecture": "samd",
           "version": "1.2.2",
           "category": "Contributed",
@@ -595,16 +595,16 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
           "architecture": "samd",
           "version": "1.3.0",
           "category": "Contributed",
@@ -617,19 +617,19 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.9)",
+          "name": "Altrac SAMD Boards (dependency: Arduino SAMD Boards 1.6.9)",
           "architecture": "samd",
           "version": "1.3.2",
           "category": "Contributed",
@@ -642,19 +642,19 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards",
+          "name": "Altrac SAMD Boards",
           "architecture": "samd",
           "version": "1.4.0",
           "category": "Contributed",
@@ -667,13 +667,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -681,14 +681,14 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "SparkFun",
+              "packager": "Altrac",
               "name": "bossac",
               "version": "1.4.0"
             }
           ]
         },
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "Altrac SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.0",
           "category": "Contributed",
@@ -701,13 +701,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -717,7 +717,7 @@
           ]
         },
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "Altrac SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.1",
           "category": "Contributed",
@@ -730,13 +730,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -749,7 +749,7 @@
           ]
         },
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "Altrac SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.2",
           "category": "Contributed",
@@ -762,13 +762,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -781,7 +781,7 @@
           ]
 		},
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "Altrac SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.3",
           "category": "Contributed",
@@ -794,13 +794,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -813,7 +813,7 @@
           ]
 		},
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "Altrac SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.4",
           "category": "Contributed",
@@ -826,13 +826,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -848,7 +848,7 @@
           ]
 		},
         {
-          "name": "SparkFun SAMD Boards",
+          "name": "Altrac SAMD Boards",
           "architecture": "samd",
           "version": "1.6.1",
           "category": "Contributed",
@@ -861,13 +861,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -911,7 +911,7 @@
 			]
 		},
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.8.1)",
+          "name": "Altrac SAMD Boards  (dependency: Arduino SAMD Boards 1.8.1)",
           "architecture": "samd",
           "version": "1.6.2",
           "category": "Contributed",
@@ -924,13 +924,13 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Altrac SAMD21 Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Altrac SAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "Altrac 9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -1046,15 +1046,15 @@
       ]
     },
     {
-      "maintainer": "SparkFun Electronics",
+      "maintainer": "Altrac Electronics",
       "help": {
-        "online": "http://SparkFun.com"
+        "online": "http://Altrac.com"
       },
       "websiteURL": "https://github.com/sparkfun/Arduino_Boards",
       "platforms": [
         {
           "category": "Contributed",
-          "name": "SparkFun ESP8266 Boards",
+          "name": "Altrac ESP8266 Boards",
           "url": "https://cdn.sparkfun.com/assets/learn_tutorials/4/9/5/sparkfun-esp8266-2.1.0.tar.bz2",
           "checksum": "SHA-256:FE3E0504B38A5A4C912801A3E4633380A666DC77B8D3043548187AF8675477DA",
           "help": {
@@ -1065,13 +1065,13 @@
           "archiveFileName": "sparkfun-esp8266-2.1.0.tar.bz2",
           "boards": [
             {
-              "name": "SparkFun Blynk Board - ESP8266"
+              "name": "Altrac Blynk Board - ESP8266"
             },
             {
-              "name": "SparkFun ESP8266 Thing"
+              "name": "Altrac ESP8266 Thing"
             },
             {
-              "name": "SparkFun ESP8266 Thing - Development Board"
+              "name": "Altrac ESP8266 Thing - Development Board"
             },
             {
               "name": "Generic ESP8266 Module"

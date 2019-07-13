@@ -1,0 +1,43 @@
+# Copyright (c) 2014-2015 Arduino LLC.  All right reserved.
+#
+# This library is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation; either
+# version 2.1 of the License, or (at your option) any later version.
+#
+# This library is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# See the GNU Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public
+# License along with this library; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+
+amb_v010000.name=Altrac AMB v1.0.0
+amb_v010000.vid.0=0x03EB
+amb_v010000.pid.0=0x2402
+amb_v010000.vid.1=0x03EB
+amb_v010000.pid.1=0x2402
+amb_v010000.upload.tool=bossac
+amb_v010000.upload.protocol=sam-ba
+amb_v010000.upload.maximum_size=262144
+amb_v010000.upload.use_1200bps_touch=true
+amb_v010000.upload.wait_for_upload_port=true
+amb_v010000.upload.native_usb=true
+amb_v010000.build.mcu=cortex-m0plus
+amb_v010000.build.f_cpu=48000000L
+amb_v010000.build.usb_product="AMB v01"
+amb_v010000.build.usb_manufacturer="Altrac"
+amb_v010000.build.board=SAMD_ZERO
+amb_v010000.build.core=arduino
+amb_v010000.build.extra_flags=-D__SAMD21G18A__ {build.usb_flags}
+amb_v010000.build.ldscript=linker_scripts/gcc/flash_with_bootloader.ld
+amb_v010000.build.openocdscript=openocd_scripts/arduino_zero.cfg
+amb_v010000.build.variant=AMB_v010000
+amb_v010000.build.variant_system_lib=
+amb_v010000.build.extra_combine_flags=
+amb_v010000.build.vid=0x03EB
+amb_v010000.build.pid=0x2402
+amb_v010000.bootloader.tool=openocd
+amb_v010000.bootloader.file=amb/bootloader-amb-v3.7.0-3-gdc302bd.bin
